@@ -14,7 +14,7 @@ function Header() {
             <Nav.Link href="#pricing">Testing</Nav.Link>
           </Nav>
           <Nav>
-            <Nav.Link href="#deets">More deets</Nav.Link>
+            <Nav.Link href="#deets">Git Hub</Nav.Link>
             <Nav.Link eventKey={2} href="#darkmode">
               Dark mode
             </Nav.Link>

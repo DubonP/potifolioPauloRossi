@@ -1,18 +1,19 @@
+import cartoon1 from "../img/cartoon.boyzin.png";
+
 export const projetos = [
   {
     id: "1",
     title: "Site de aluguel de carros",
-    link: " www.google.com.br",
+    link: "www.google.com.br",
     area: "testing",
     data: "27/10/2021",
     tecnologias: "Selenium",
-    image:
-      "https://flyclipart.com/thumb2/computer-icons-logo-brand-javascript-javaserver-pages-free-892749.png",
+    image: cartoon1,
   },
   {
     id: "2",
-    titulo: "Site para doacao de computadores",
-    link: " www.google.com.br",
+    title: "Site para doacao de computadores",
+    link: "www.google.com.br/ola",
     area: "frontend",
     data: "27/10/2020",
     tecnologias: "Javascript, React, Bootstrap, CSS, HTML",
@@ -21,8 +22,8 @@ export const projetos = [
   },
   {
     id: "3",
-    titulo: "Site para doacao de computadores",
-    link: " www.google.com.br",
+    title: "Site para doacao de computadores",
+    link: "www.google.com.br/foi",
     area: "frontend",
     data: "27/10/2020",
     tecnologias: "Javascript, React, Bootstrap, CSS, HTML",

@@ -1,4 +1,12 @@
 .home {
-  background-color: var(--success);
+  background: var(--success);
+  background: linear-gradient(
+    70deg,
+    var(--dark) 0%,
+    var(--primary) 20%,
+    var(--secondary) 50%,
+    var(--primary) 80%,
+    var(--dark) 100%
+  );
   padding: 0 10% 0 10%;
 }

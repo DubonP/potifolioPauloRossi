@@ -1,3 +1,10 @@
+.intro {
+  background-color: transparent;
+  box-shadow: rgba(33, 35, 38, 0.4) 0px 10px 10px -10px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+
 .intro_header {
   display: flex;
   justify-content: center;
@@ -28,6 +35,7 @@
   margin-bottom: 2%;
   font-size: 1.4rem;
   font-weight: 600;
+  color: var(--light);
 }
 
 .intro_image {
