@@ -1,0 +1,21 @@
+$info: #005BEA;
+$light: #deefff;
+$danger: #fb8500;
+$warning: #ffb703;
+$success: #04F9F2;
+$primary: #0000FF;
+$secondary: #1C82AD;
+$dark: #13005A;
+
+@import "~bootstrap/scss/bootstrap.scss";
+
+:root {
+  --info: #{$info};
+  --light: #{$light};
+  --danger: #{$danger};
+  --warning: #{$warning};
+  --success: #{$success};
+  --primary: #{$primary};
+  --secondary: #{$secondary};
+  --dark: #{$dark};
+}

@@ -1,0 +1,40 @@
+.intro_header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+.intro_base {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 3%;
+  overflow: hidden;
+  text-align: center;
+}
+
+.intro_text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 500px;
+  margin: auto;
+  padding: auto;
+  margin-bottom: 2%;
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.intro_image {
+  margin: 0;
+  padding: 0;
+  box-shadow: rgba(33, 35, 38, 0.3) 0px 10px 10px -10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
