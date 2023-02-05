@@ -6,17 +6,17 @@ function Header() {
   return (
     <Navbar collapseOnSelect expand="lg" bg="info" variant="dark">
       <Container>
-        <Navbar.Brand href="#home">Paulo Rossi</Navbar.Brand>
+        <Navbar.Brand href="#home">Paulo Gustavo Rossi</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="#features">Features</Nav.Link>
-            <Nav.Link href="#pricing">Pricing</Nav.Link>
+            <Nav.Link href="#features">frontend</Nav.Link>
+            <Nav.Link href="#pricing">Testing</Nav.Link>
           </Nav>
           <Nav>
             <Nav.Link href="#deets">More deets</Nav.Link>
-            <Nav.Link eventKey={2} href="#memes">
-              Dank memes
+            <Nav.Link eventKey={2} href="#darkmode">
+              Dark mode
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>
