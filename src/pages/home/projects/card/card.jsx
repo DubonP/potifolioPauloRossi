@@ -14,7 +14,7 @@ export function Card(props) {
       </div>
       <div className="card_description">
         <div className="card_title">
-          <h2>{props.proj.title}</h2>
+          <h3>{props.proj.title}</h3>
         </div>
 
         <p>{props.proj.tecnologias}</p>
