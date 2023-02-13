@@ -7,7 +7,8 @@ function Intro() {
     <div className="intro">
       <div className="intro_header">
         <p>
-          Esse site foi produzido utilizando: Sass, Bootstrap, React Router Dom
+          Esse site foi produzido utilizando: Sass, Bootstrap, Router Dom,
+          Framer Motion
         </p>
       </div>
       <div className="intro_base">
