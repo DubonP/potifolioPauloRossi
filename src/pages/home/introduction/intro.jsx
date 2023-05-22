@@ -14,11 +14,15 @@ function Intro() {
       <div className="intro_base">
         <div className="intro_text">
           <p>
-            Sou engenheiro químico por formação e atualmente, estou em transição
-            de carreira para a área de desenvolvedor frontend/Qa. Minha área de
-            maior interesse é a de Qa, no entanto, estou aberto à novas
-            experiências, pois acredito que posso gostar e aprender muito em
-            outras áreas.
+            Como Engenheiro Químico, possuo experiência em gestão de equipes e
+            desenvolvimento de metas. Atualmente, estou buscando uma transição
+            para a área de Desenvolvimento Frontend/QA. Estou em busca de uma
+            posição que me permita aplicar e aprimorar minhas habilidades
+            tecnológicas, além de colaborar com uma equipe dinâmica. Possuo um
+            conhecimento avançado em inglês, sou uma pessoa proativa, com
+            facilidade de aprendizado e habilidades comprovadas em liderança.
+            Estou em busca de oportunidades para aprimorar meus conhecimentos e
+            contribuir para o sucesso da empresa.
           </p>
         </div>
         <div className="intro_image">

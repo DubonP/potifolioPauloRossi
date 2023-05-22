@@ -3,11 +3,11 @@ import cartoon1 from "../img/cartoon.boyzin.png";
 export const projetos = [
   {
     id: "1",
-    title: "Site de aluguel de carros",
-    link: "www.google.com.br",
-    area: "testing",
-    data: "27/10/2021",
-    tecnologias: "Selenium",
+    title: "Aulas Digital House",
+    link: "https://aulas-dh-2023.vercel.app/",
+    area: "Frontend",
+    data: "14/02/2023",
+    tecnologias: "Next.js, React, CSS, HTML, Typescript",
     image: cartoon1,
   },
   {
